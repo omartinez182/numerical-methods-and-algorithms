@@ -24,6 +24,12 @@ In order to use the application, you can clone this repo and then you can run th
 
 Feel free to use this and modify or improve them in any way you'd like. There are still some particular constraints in relation to how you input the functions/values that can be improved.
 
+Here's an example of how you can use the Steepest Descent algorithm. You just need to enter the function, the two initial points for the search, and a value for epsilon. 
+
+![Steepest Descent Example](https://i.imgur.com/53Faoob.png)
+
+And as you can see you'll get the exact points at which the function is minimized near that interval and the value evaluated at the minimum.
+
 ---
 ### Authors
 * Omar Eduardo Martinez
