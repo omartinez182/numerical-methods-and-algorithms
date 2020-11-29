@@ -18,7 +18,7 @@ In order to use the application, you can clone this repo and then you can run th
   <li>Incremental Search Method</li>
   <li>Bisection Method</li>
   <li>Newton-Raphson</li>
-  <li>FONC SONC SOSC evaluator</li>
+  <li>FONC SONC SOSC Evaluator</li>
   <li>Steepest Descent</li> 
 </ul>
 
