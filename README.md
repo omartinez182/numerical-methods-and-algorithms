@@ -4,7 +4,7 @@ The idea of this shiny app was to understand numerical methods and optimization 
 
 All of the UI/server is handled in shiny (R), and the back-end runs on a python script. 
 
-In order to use the application, you can clone this repo and then you can run either of the .R files, and then if you have shiny installed, you should be able to see the button to run the shiny app. 
+In order to use the application, you can clone this repo and then you can run either of the .R files. If you have shiny installed, you should be able to see the button to run the shiny app. 
 
 <b>Here's the list of the methods/algorithms available in the app:</b>
 
