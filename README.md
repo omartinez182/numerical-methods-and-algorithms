@@ -1,10 +1,13 @@
 # Numerical Methods &amp; Optimization Algorithms
 
-The idea of this shiny app was to understand numerical methods and optimization algorithms through their implementation. 
+The idea of this implementation was to understand numerical methods and optimization algorithms better through their implementation in Python. 
 
-All of the UI/server is handled in shiny (R), and the back-end runs on a python script. 
+All of the UI/Server is handled in Shiny<b>(R)</b>, and the back-end runs on a Python script. 
 
-In order to use the application, you can clone this repo and then you can run either of the .R files. If you have shiny installed, you should be able to see the button to run the shiny app. 
+In order to use the application, you can clone this repo and then you can run the app through either of the .R files. If you have shiny installed, you should be able to see the button to run the shiny app. 
+
+![example(https://prnt.sc/vs3t76)
+
 
 <b>Here's the list of the methods/algorithms available in the app:</b>
 
