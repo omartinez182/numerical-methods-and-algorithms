@@ -6,7 +6,7 @@ All of the UI/Server is handled in Shiny<b>(R)</b>, and the back-end runs on a P
 
 In order to use the application, you can clone this repo and then you can run the app through either of the .R files. If you have shiny installed, you should be able to see the button to run the shiny app. 
 
-![example(https://prnt.sc/vs3t76)
+![example(https://prnt.sc/vs3t76)]
 
 
 <b>Here's the list of the methods/algorithms available in the app:</b>
