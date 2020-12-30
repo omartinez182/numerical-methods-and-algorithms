@@ -1,6 +1,6 @@
 # Numerical Methods &amp; Optimization Algorithms
 
-The idea of this implementation was to understand numerical methods and optimization algorithms better through their implementation in Python. 
+The purpose of this implementation was to understand numerical methods and optimization algorithms better through their implementation in Python. 
 
 All of the UI/Server is handled in Shiny<b>(R)</b>, and the back-end runs on a Python script. 
 
